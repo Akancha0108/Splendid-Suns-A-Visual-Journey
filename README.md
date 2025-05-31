@@ -14,8 +14,6 @@ This short animation visualizes the emotional journey of Afghan women through:
 - Integration of **audio** and a meaningful **quote** to deepen the narrative impact
 
 The project demonstrates creativity, storytelling, and growing proficiency in Blender's animation tools.
-
----
 ---
 
 ##  Tools Used
@@ -42,7 +40,7 @@ This project is intended for educational, showcase, and non-commercial purposes.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Inspired by *A Thousand Splendid Suns* by Khaled Hosseini — a tribute to the strength and spirit of  women.
 
