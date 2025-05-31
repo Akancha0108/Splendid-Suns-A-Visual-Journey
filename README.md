@@ -32,7 +32,7 @@ The project demonstrates creativity, storytelling, and growing proficiency in Bl
   License: [Creative Commons Attribution (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
   Source: [https://skfb.ly/oyZRG](https://skfb.ly/oyZRG)
 
--- Audio used **only in the rendered video** (in `rendered_output/final%20arvr(sound).mp4`)
+-- Audio used **only in the rendered video** (in `rendered_output/`)
 
 ---
 
